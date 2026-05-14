@@ -1,0 +1,10 @@
+﻿{
+	"name": "ScorchWurmFixes",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/Tizitendo/HalcyonFixes",
+	"description": "Fix Scorch Wurm",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2108",
+		"RiskofThunder-HookGenPatcher-1.2.3"
+	]
+}
