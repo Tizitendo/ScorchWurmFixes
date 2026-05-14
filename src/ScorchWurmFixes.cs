@@ -6,6 +6,7 @@ using RoR2.ContentManagement;
 using RoR2BepInExPack.GameAssetPathsBetter;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
+
 namespace ScorchWurmFixes;
 
 [BepInPlugin(PluginGUID, PluginName, PluginVersion)]

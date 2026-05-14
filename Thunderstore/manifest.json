@@ -1,7 +1,7 @@
 ﻿{
 	"name": "ScorchWurmFixes",
-	"version_number": "1.0.0",
-	"website_url": "https://github.com/Tizitendo/HalcyonFixes",
+	"version_number": "1.0.1",
+	"website_url": "https://github.com/Tizitendo/ScorchWurmFixes",
 	"description": "Fix Scorch Wurm",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.2108",
